@@ -1,0 +1,149 @@
+# 🧩 MySQL Mini Project — Employee Promotion and Analysis System
+
+## 📘 Overview
+This project is a **small MySQL system** designed to manage and analyze employee data.  
+It demonstrates how to use **tables, triggers, and stored procedures** together to automate operations in a database.
+
+The main goal is to:
+- Identify employees with **high salaries** (greater than 70,000).
+- Automatically record them in a **promotion log**.
+- Analyze employee data through a stored procedure.
+
+---
+
+## 🧱 Database Structure
+
+### 1️⃣ Table: `info`
+Contains basic employee information such as:
+- EmpID  
+- first_name  
+- last_name  
+- citizendesc  
+- absences  
+
+### 2️⃣ Table: `job`
+Contains job-related details such as:
+- EmpID  
+- salary  
+- position  
+- department  
+
+### 3️⃣ Table: `employees_informations`
+A table combining important data from both `info` and `job`:
+```sql
+CREATE TABLE employees_informations AS
+SELECT info.EmpID, first_name, last_name, absences, citizendesc, salary
+FROM info
+JOIN job ON info.EmpID = job.EmpID;
+```
+This table stores the **complete employee profile**.
+
+### 4️⃣ Table: `promotion_log`
+Stores employees whose salary exceeds **70,000**.  
+It is automatically updated through a trigger.
+
+```sql
+CREATE TABLE promotion_log
+(
+  EmpID INT,
+  first_name VARCHAR(50),
+  last_name VARCHAR(50),
+  absences INT,
+  citizendesc VARCHAR(50),
+  salary DECIMAL
+);
+```
+
+---
+
+## ⚙️ Trigger — `promotion_insert`
+This trigger runs **after every insertion** in the `employees_informations` table.  
+If the inserted employee’s salary is greater than 70,000, it automatically adds that record into the `promotion_log` table.
+
+```sql
+DELIMITER $$
+DROP TRIGGER IF EXISTS promotion_insert$$
+CREATE TRIGGER promotion_insert
+AFTER INSERT ON employees_informations
+FOR EACH ROW
+BEGIN
+  IF NEW.salary > 70000 THEN
+    INSERT INTO promotion_log
+    VALUES (NEW.EmpID, NEW.first_name, NEW.last_name, NEW.absences, NEW.citizendesc, NEW.salary);
+  END IF;
+END$$
+DELIMITER ;
+```
+
+✅ **Test example:**
+```sql
+INSERT INTO employees_informations
+VALUES (10001, 'FOUAD', 'LATRACHE', 0, 'NON US CITIZEN', 74000);
+```
+➡️ The above employee will automatically appear in the `promotion_log` table.
+
+---
+
+## 🧮 Stored Procedure — `analyze_employee()`
+This stored procedure provides useful insights about all employees:
+
+1. The number of employees per citizenship.  
+2. The average salary of all employees.  
+3. The top 3 most absent employees.
+
+```sql
+DELIMITER $$
+DROP PROCEDURE IF EXISTS analyze_employee$$
+CREATE PROCEDURE analyze_employee()
+BEGIN 
+  SELECT citizendesc, COUNT(citizendesc)
+  FROM employees_informations
+  GROUP BY citizendesc;
+
+  SELECT AVG(salary)
+  FROM employees_informations;
+
+  SELECT *
+  FROM employees_informations
+  ORDER BY absences DESC
+  LIMIT 3;
+END$$
+DELIMITER ;
+```
+
+To run it:
+```sql
+CALL analyze_employee();
+```
+
+---
+
+## 🧠 Key Concepts Covered
+- Table creation and `JOIN`  
+- Conditional logic in triggers (`IF` statements)  
+- Automatic data handling with triggers (`AFTER INSERT`)  
+- Stored Procedures for data analysis  
+- Aggregation and ordering (`COUNT`, `AVG`, `ORDER BY`, `LIMIT`)  
+
+---
+
+## 🚀 How to Use
+1. nfo and job tables are in the folder data.  
+2. Copy and run this full SQL script in MySQL Workbench.  
+3. Test inserting new employees into `employees_informations`.  
+4. Check the `promotion_log` table for automatic updates.  
+5. Run the stored procedure to analyze your data:
+   ```sql
+   CALL analyze_employee();
+   ```
+
+---
+
+## 🧑‍💻 Author
+**👋 Zoubir Chatti**  
+🎓 Data & Signal Processing Student | Learning MySQL & Data Analysis  
+📍 Marseille, France 🇫🇷  
+💡 Passionate about data, automation, and continuous learning.
+
+---
+
