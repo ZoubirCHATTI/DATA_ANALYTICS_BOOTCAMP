@@ -1,0 +1,311 @@
+EmpID,Position,DateofHire,RecruitmentSource,Absences,Salary
+10001,Production Manager,1/28/2016,Indeed,14,72640
+10003,Production Technician I,1/30/2016,Indeed,19,62910
+10004,Production Technician I,1/31/2016,Diversity Job Fair,17,47434
+10005,Software Engineer,2/1/2016,Diversity Job Fair,13,108987
+10006,Area Sales Manager,2/2/2016,Indeed,14,74241
+10007,Production Technician I,2/3/2016,CareerBuilder,5,62065
+10008,IT Support,2/4/2016,Diversity Job Fair,14,51777
+10009,Production Technician II,2/5/2016,LinkedIn,11,60724
+10010,CIO,2/6/2016,Employee Referral,16,220450
+10011,Production Technician I,2/7/2016,Google Search,16,46738
+10012,Data Analyst,2/8/2016,Diversity Job Fair,9,92328
+10013,Area Sales Manager,2/9/2016,Indeed,6,64397
+10014,Production Technician I,2/10/2016,LinkedIn,15,58523
+10015,IT Director,2/11/2016,Indeed,15,178000
+10016,Data Analyst,2/12/2016,Employee Referral,16,93554
+10017,Production Manager,2/13/2016,Website,11,77915
+10018,Production Technician I,2/14/2016,Indeed,3,57815
+10019,Director of Operations,2/15/2016,Indeed,15,170500
+10020,Production Technician I,2/16/2016,Employee Referral,4,63353
+10021,Production Technician I,2/17/2016,LinkedIn,13,47414
+10022,Production Technician I,2/18/2016,Google Search,18,49773
+10023,Production Technician II,2/19/2016,Employee Referral,16,70131
+10024,Software Engineer,2/20/2016,LinkedIn,1,92989
+10025,Production Technician II,2/21/2016,Indeed,1,72460
+10026,Production Technician I,2/22/2016,LinkedIn,1,62506
+10027,Production Technician II,2/23/2016,Indeed,4,60656
+10028,IT Manager - Support,2/24/2016,Indeed,4,138888
+10029,Production Technician I,2/25/2016,Employee Referral,5,50373
+10030,Production Technician I,2/26/2016,LinkedIn,16,62425
+10031,Production Technician I,2/27/2016,Diversity Job Fair,1,59892
+10032,Production Technician II,2/28/2016,Indeed,12,57954
+10033,Production Technician II,2/29/2016,LinkedIn,7,70507
+10034,Production Technician I,3/1/2016,CareerBuilder,9,46837
+10035,Production Technician II,3/2/2016,Indeed,19,73330
+10036,Production Technician II,3/3/2016,LinkedIn,1,63322
+10037,Production Technician I,3/4/2016,Diversity Job Fair,12,52984
+10038,Accountant I,3/5/2016,Website,3,64520
+10039,Administrative Assistant,3/6/2016,Website,2,51920
+10040,Area Sales Manager,3/7/2016,Indeed,7,71860
+10041,Area Sales Manager,3/8/2016,Website,18,68829
+10042,Area Sales Manager,3/9/2016,Indeed,2,63695
+10043,Data Analyst,3/10/2016,Employee Referral,11,89292
+10044,Network Engineer,3/11/2016,CareerBuilder,11,75281
+10045,Network Engineer,3/12/2016,Employee Referral,8,76029
+10046,Production Technician I,3/13/2016,Google Search,13,51044
+10047,Production Technician I,3/14/2016,Indeed,11,50428
+10048,Production Technician I,3/15/2016,Website,7,55140
+10049,Production Technician I,3/16/2016,Google Search,19,58530
+10050,Production Technician I,3/17/2016,Google Search,13,64724
+10051,Production Technician I,3/18/2016,LinkedIn,2,48285
+10052,Production Technician I,3/19/2016,LinkedIn,13,46120
+10053,Production Technician I,3/20/2016,Indeed,8,54132
+10054,Production Technician I,3/21/2016,Website,8,60627
+10055,Production Technician I,3/22/2016,Google Search,12,59026
+10056,Production Technician I,3/23/2016,Indeed,1,57583
+10057,Production Technician I,3/24/2016,Website,6,52057
+10058,Production Technician I,3/25/2016,LinkedIn,11,45115
+10059,Production Technician I,3/26/2016,CareerBuilder,17,63813
+10060,Production Technician I,3/27/2016,LinkedIn,9,60436
+10061,Production Technician I,3/28/2016,Google Search,20,57834
+10062,Production Technician I,3/29/2016,Employee Referral,19,59365
+10063,Production Technician I,3/30/2016,LinkedIn,11,48495
+10064,Production Technician I,3/31/2016,Google Search,7,60070
+10065,Production Technician I,4/1/2016,Google Search,4,53180
+10066,Production Technician I,4/2/2016,On-line Web application,1,52505
+10067,Production Technician I,4/3/2016,Google Search,11,61656
+10068,Production Technician I,4/4/2016,CareerBuilder,10,55688
+10069,Production Technician I,4/5/2016,Google Search,2,50825
+10070,Production Technician I,4/6/2016,Indeed,14,55722
+10071,Production Technician I,4/7/2016,Google Search,14,50923
+10072,Production Technician I,4/8/2016,LinkedIn,11,58371
+10073,Production Technician II,4/9/2016,LinkedIn,16,68407
+10074,Production Technician II,4/10/2016,LinkedIn,20,64246
+10075,Production Technician II,4/11/2016,CareerBuilder,15,68099
+10076,Production Technician II,4/12/2016,LinkedIn,16,55315
+10077,Production Technician II,4/13/2016,LinkedIn,4,62385
+10078,Production Technician II,4/14/2016,LinkedIn,17,71966
+10079,Senior BI Developer,4/15/2016,Indeed,17,87921
+10080,Sr. Accountant,4/16/2016,Other,3,99351
+10081,Sr. Accountant,4/17/2016,Diversity Job Fair,4,106367
+10082,Sr. DBA,4/18/2016,LinkedIn,7,100031
+10083,Sr. Network Engineer,4/19/2016,Employee Referral,5,92329
+10084,Sr. DBA,4/20/2016,Indeed,17,104437
+10085,Software Engineer,4/21/2016,Indeed,3,93396
+10086,Data Architect,4/22/2016,Indeed,17,150290
+10087,Production Technician I,4/23/2016,CareerBuilder,17,63676
+10088,Production Technician I,4/24/2016,Indeed,15,64991
+10089,President & CEO,4/25/2016,Indeed,10,250000
+10090,Production Manager,4/26/2016,LinkedIn,15,65714
+10091,Production Technician I,4/27/2016,LinkedIn,15,52087
+10092,Production Manager,4/28/2016,Employee Referral,9,82758
+10093,Production Technician II,4/29/2016,Google Search,20,72609
+10094,Production Technician I,4/30/2016,Indeed,6,63381
+10095,Production Technician II,5/1/2016,CareerBuilder,20,63878
+10096,Production Technician II,5/2/2016,LinkedIn,15,67237
+10097,Production Technician I,5/3/2016,CareerBuilder,8,52177
+10098,Production Manager,5/4/2016,Employee Referral,2,62957
+10099,Sales Manager,5/5/2016,Indeed,8,65729
+10100,Production Technician II,5/6/2016,Google Search,1,58275
+10101,IT Support,5/7/2016,Employee Referral,11,61242
+10102,Software Engineer,5/8/2016,Diversity Job Fair,9,100416
+10103,Area Sales Manager,5/9/2016,Website,16,70468
+10104,Production Technician II,5/10/2016,Indeed,5,66738
+10105,Production Manager,5/11/2016,Google Search,4,75188
+10106,Production Technician II,5/12/2016,Indeed,20,66074
+10107,Production Technician II,5/13/2016,Employee Referral,3,63763
+10108,BI Director,5/14/2016,Indeed,8,110929
+10109,Area Sales Manager,5/15/2016,LinkedIn,20,71707
+10110,Software Engineer,5/16/2016,Google Search,14,105688
+10111,Production Technician I,5/17/2016,Employee Referral,5,52249
+10112,Database Administrator,5/18/2016,Indeed,4,97999
+10113,Sr. Network Engineer,5/19/2016,Employee Referral,7,93206
+10114,Production Technician I,5/20/2016,Diversity Job Fair,4,47837
+10115,Production Technician I,5/21/2016,LinkedIn,14,52846
+10116,Production Manager,5/22/2016,Indeed,2,83667
+10117,Production Technician I,5/23/2016,Google Search,10,63025
+10118,Database Administrator,5/24/2016,Employee Referral,9,113999
+10119,IT Support,5/25/2016,LinkedIn,19,66593
+10120,Production Technician II,5/26/2016,LinkedIn,11,74417
+10121,Area Sales Manager,5/27/2016,Indeed,1,63051
+10122,Production Technician I,5/28/2016,Diversity Job Fair,2,51505
+10123,Production Technician I,5/29/2016,Indeed,4,56339
+10124,Area Sales Manager,5/30/2016,Website,9,61844
+10125,Production Technician I,5/31/2016,Google Search,13,54828
+10126,Software Engineer,6/1/2016,Indeed,2,86214
+10127,Sr. Network Engineer,6/2/2016,Employee Referral,7,107226
+10128,Production Technician I,6/3/2016,Diversity Job Fair,17,62659
+10129,Production Technician I,6/4/2016,Google Search,1,46998
+10130,Production Manager,6/5/2016,Indeed,6,74669
+10131,Software Engineer,6/6/2016,Diversity Job Fair,4,83363
+10132,Production Technician I,6/7/2016,LinkedIn,15,56149
+10133,IT Support,6/8/2016,Employee Referral,16,70621
+10134,Shared Services Manager,6/9/2016,CareerBuilder,20,93046
+10135,Production Technician II,6/10/2016,LinkedIn,13,65893
+10136,Production Technician II,6/11/2016,LinkedIn,7,65902
+10137,Production Technician II,6/12/2016,LinkedIn,7,63450
+10138,Production Technician I,6/13/2016,CareerBuilder,4,61154
+10139,Production Technician I,6/14/2016,Indeed,14,51908
+10140,Area Sales Manager,6/15/2016,CareerBuilder,4,61809
+10141,Production Technician I,6/16/2016,Indeed,1,48413
+10142,Area Sales Manager,6/17/2016,CareerBuilder,7,59370
+10143,Production Technician II,6/18/2016,LinkedIn,6,56294
+10144,Production Manager,6/19/2016,Employee Referral,19,88976
+10145,Production Technician I,6/20/2016,CareerBuilder,20,62810
+10146,Production Technician II,6/21/2016,Google Search,3,72202
+10147,Accountant I,6/22/2016,Indeed,9,63003
+10148,Production Technician I,6/23/2016,Google Search,7,63515
+10149,Principal Data Architect,6/24/2016,LinkedIn,12,120000
+10150,Software Engineering Manager,6/25/2016,Google Search,4,77692
+10151,Network Engineer,6/26/2016,CareerBuilder,6,52599
+10152,Production Technician I,6/27/2016,Indeed,19,61729
+10153,Administrative Assistant,6/28/2016,Diversity Job Fair,17,55000
+10154,Production Technician I,6/29/2016,LinkedIn,4,60380
+10155,Software Engineer,6/30/2016,CareerBuilder,8,101199
+10156,Database Administrator,7/1/2016,Indeed,2,105700
+10157,Production Technician I,7/2/2016,Employee Referral,16,58939
+10158,Production Manager,7/3/2016,Indeed,12,63682
+10159,Production Technician I,7/4/2016,LinkedIn,19,51337
+10160,Production Technician II,7/5/2016,Google Search,18,68182
+10161,Area Sales Manager,7/6/2016,Indeed,18,58370
+10162,Data Analyst,7/7/2016,Employee Referral,15,89883
+10163,Production Technician II,7/8/2016,Google Search,6,55965
+10164,Production Technician I,7/9/2016,Google Search,15,47001
+10165,Area Sales Manager,7/10/2016,Diversity Job Fair,20,71339
+10166,Production Technician I,7/11/2016,Google Search,16,54005
+10167,Area Sales Manager,7/12/2016,Indeed,9,70545
+10168,Production Technician I,7/13/2016,Indeed,3,64816
+10169,Production Technician I,7/14/2016,LinkedIn,2,56147
+10170,Production Technician I,7/15/2016,Google Search,6,45433
+10171,Production Technician I,7/16/2016,LinkedIn,5,45998
+10172,Senior BI Developer,7/17/2016,Indeed,17,84903
+10173,BI Developer,7/18/2016,Indeed,14,90100
+10174,Production Technician II,7/19/2016,LinkedIn,14,60446
+10175,Production Manager,7/20/2016,Indeed,14,74312
+10176,Production Technician I,7/21/2016,Indeed,17,63973
+10177,Production Technician I,7/22/2016,Google Search,6,53492
+10178,Data Analyst,7/23/2016,Employee Referral,16,87826
+10179,Network Engineer,7/24/2016,LinkedIn,7,50750
+10180,Sr. Network Engineer,7/25/2016,LinkedIn,13,87565
+10181,Production Technician II,7/26/2016,Indeed,15,62162
+10182,Administrative Assistant,7/27/2016,Indeed,6,49920
+10183,Production Technician I,7/28/2016,LinkedIn,7,62068
+10184,Production Technician II,7/29/2016,Google Search,9,65288
+10185,Production Technician I,7/30/2016,Employee Referral,10,46664
+10186,Production Technician I,7/31/2016,Indeed,16,52624
+10187,Production Technician I,8/1/2016,Google Search,14,46799
+10188,Area Sales Manager,8/2/2016,Google Search,19,74326
+10189,Production Technician I,8/3/2016,Google Search,16,57748
+10190,Production Technician II,8/4/2016,Employee Referral,4,66541
+10191,Production Technician I,8/5/2016,Indeed,18,52788
+10192,Production Technician I,8/6/2016,Indeed,10,50482
+10193,Data Analyst,8/7/2016,Indeed,2,83552
+10194,Software Engineer,8/8/2016,LinkedIn,19,95660
+10195,Production Technician II,8/9/2016,Indeed,16,63478
+10196,Production Technician II,8/10/2016,LinkedIn,3,64955
+10197,BI Developer,8/11/2016,Indeed,15,96820
+10198,IT Manager - DB,8/12/2016,Indeed,13,140920
+10199,Enterprise Architect,8/13/2016,LinkedIn,2,103613
+10200,Area Sales Manager,8/14/2016,Employee Referral,17,66808
+10201,Production Technician II,8/15/2016,LinkedIn,4,69340
+10202,Area Sales Manager,8/16/2016,Website,7,63291
+10203,Production Technician I,8/17/2016,Diversity Job Fair,17,64375
+10204,Production Technician I,8/18/2016,Google Search,9,58062
+10205,Area Sales Manager,8/19/2016,Indeed,16,57859
+10206,Production Technician I,8/20/2016,LinkedIn,4,62061
+10207,Production Technician I,8/21/2016,CareerBuilder,15,46335
+10208,Production Technician I,8/22/2016,LinkedIn,3,46654
+10209,Production Technician I,8/23/2016,Indeed,13,59238
+10210,Production Technician I,8/24/2016,Indeed,11,54237
+10211,Production Technician I,8/25/2016,Google Search,6,62514
+10212,Sr. Network Engineer,8/26/2016,LinkedIn,19,85028
+10213,Production Technician II,8/27/2016,LinkedIn,14,58207
+10214,Production Technician II,8/28/2016,Indeed,6,64995
+10215,Production Technician I,8/29/2016,Diversity Job Fair,19,50470
+10216,Production Technician I,8/30/2016,LinkedIn,13,57575
+10217,Production Technician II,8/31/2016,LinkedIn,14,74226
+10218,Production Technician II,9/1/2016,Google Search,1,66149
+10219,Production Technician I,9/2/2016,LinkedIn,14,45395
+10220,IT Support,9/3/2016,Indeed,2,68678
+10221,Production Technician I,9/4/2016,Diversity Job Fair,11,60754
+10222,IT Manager - DB,9/5/2016,Diversity Job Fair,8,148999
+10223,Production Technician II,9/6/2016,Diversity Job Fair,12,72106
+10224,Production Technician II,9/7/2016,Indeed,13,55578
+10225,Production Technician I,9/8/2016,Employee Referral,14,59472
+10226,Production Technician I,9/9/2016,Indeed,2,64919
+10227,Production Technician I,9/10/2016,LinkedIn,7,61242
+10228,IT Support,9/11/2016,LinkedIn,20,74679
+10229,Data Analyst ,9/12/2016,LinkedIn,2,88527
+10230,Production Technician II,9/13/2016,Google Search,10,64971
+10231,Area Sales Manager,9/14/2016,Indeed,13,65310
+10232,Senior BI Developer,9/15/2016,Indeed,2,81584
+10233,Production Technician II,9/16/2016,CareerBuilder,13,57975
+10234,BI Developer,9/17/2016,Indeed,8,99020
+10235,Production Technician I,9/18/2016,Employee Referral,3,54285
+10236,Production Technician I,9/19/2016,Employee Referral,7,45069
+10237,Production Technician II,9/20/2016,LinkedIn,20,66825
+10238,Accountant I,9/21/2016,Diversity Job Fair,14,63000
+10239,BI Developer,9/22/2016,Indeed,10,95920
+10240,Production Technician I,9/23/2016,Indeed,3,64786
+10241,Area Sales Manager,9/24/2016,Indeed,18,60120
+10242,Production Technician I,9/25/2016,Diversity Job Fair,15,47211
+10243,Production Technician I,9/26/2016,Indeed,7,53018
+10244,Sales Manager,9/27/2016,Google Search,2,68999
+10245,Database Administrator,9/28/2016,Google Search,8,110000
+10246,Database Administrator,9/29/2016,Indeed,10,114800
+10247,Production Technician I,9/30/2016,LinkedIn,8,48888
+10248,Production Technician I,10/1/2016,LinkedIn,4,55425
+10249,Production Technician II,10/2/2016,Google Search,20,61962
+10250,IT Support,10/3/2016,Indeed,16,50178
+10251,Production Technician I,10/4/2016,Google Search,10,64738
+10252,Production Technician I,10/5/2016,Diversity Job Fair,12,54670
+10253,Area Sales Manager,10/6/2016,Website,11,55875
+10254,Production Technician I,10/7/2016,LinkedIn,18,63430
+10255,Area Sales Manager,10/8/2016,Indeed,20,61555
+10256,Production Technician I,10/9/2016,LinkedIn,3,49256
+10257,Production Technician I,10/10/2016,LinkedIn,12,53171
+10258,Area Sales Manager,10/11/2016,CareerBuilder,7,67251
+10259,Data Analyst,10/12/2016,Employee Referral,19,93093
+10260,Production Technician I,10/13/2016,Google Search,7,46428
+10261,Production Technician I,10/14/2016,Employee Referral,3,63108
+10262,Production Technician I,10/15/2016,Indeed,16,46430
+10263,Production Technician II,10/16/2016,LinkedIn,17,71776
+10264,Production Technician I,10/17/2016,Diversity Job Fair,16,59728
+10265,Production Technician I,10/18/2016,Google Search,7,58709
+10266,Production Technician I,10/19/2016,LinkedIn,4,61355
+10267,Production Technician II,10/20/2016,Google Search,5,57815
+10268,Production Technician II,10/21/2016,Other,15,67176
+10269,Production Technician II,10/22/2016,Indeed,6,59369
+10270,Production Technician II,10/23/2016,LinkedIn,5,74813
+10271,Production Technician I,10/24/2016,LinkedIn,2,45046
+10272,Director of Sales,10/25/2016,LinkedIn,19,180000
+10273,IT Support,10/26/2016,LinkedIn,1,65707
+10274,Production Manager,10/27/2016,Diversity Job Fair,5,80512
+10275,Production Technician II,10/28/2016,Google Search,9,64066
+10276,Production Technician I,10/29/2016,Indeed,1,51259
+10277,Production Technician I,10/30/2016,LinkedIn,13,53250
+10278,Production Technician I,10/31/2016,Google Search,9,47961
+10279,Production Technician I,11/1/2016,LinkedIn,11,61349
+10280,Production Technician I,11/2/2016,Google Search,16,60340
+10281,Production Technician I,11/3/2016,LinkedIn,6,53060
+10282,Production Manager,11/4/2016,CareerBuilder,3,68051
+10283,Production Technician I,11/5/2016,Diversity Job Fair,15,54933
+10284,Production Technician I,11/6/2016,Indeed,6,61584
+10285,Production Technician I,11/7/2016,Indeed,16,61422
+10286,Production Technician I,11/8/2016,Google Search,15,53564
+10287,Production Technician I,11/9/2016,LinkedIn,18,63025
+10288,IT Manager - Infra,11/10/2016,Diversity Job Fair,13,157000
+10289,Production Manager,11/11/2016,Indeed,4,83082
+10290,Software Engineer,11/12/2016,Indeed,19,99280
+10291,Sales Manager,11/13/2016,Diversity Job Fair,16,72992
+10292,Production Technician I,11/14/2016,LinkedIn,16,59144
+10293,Production Technician I,11/15/2016,CareerBuilder,13,50274
+10294,Production Technician II,11/16/2016,CareerBuilder,3,66441
+10295,Production Technician I,11/17/2016,Diversity Job Fair,4,47750
+10296,Production Technician I,11/18/2016,Google Search,19,59124
+10297,Production Technician II,11/19/2016,CareerBuilder,2,60270
+10298,Production Technician II,11/20/2016,LinkedIn,6,55800
+10299,Production Technician II,11/21/2016,Indeed,5,56847
+10300,Production Technician II,11/22/2016,Diversity Job Fair,10,68898
+10301,Production Technician I,11/23/2016,Google Search,4,48513
+10302,Production Technician I,11/24/2016,Indeed,20,64021
+10303,Production Technician I,11/25/2016,LinkedIn,3,52674
+10304,Area Sales Manager,11/26/2016,Website,17,59231
+10305,Area Sales Manager,11/27/2016,Employee Referral,7,70187
+10306,Area Sales Manager,11/28/2016,Indeed,5,61568
+10307,Area Sales Manager,11/29/2016,Website,5,58273
+10308,Production Technician I,11/30/2016,Indeed,15,64057
+10309,Network Engineer,12/1/2016,LinkedIn,2,53366
+10310,Production Technician I,12/2/2016,Indeed,9,53189
+10311,Production Technician I,12/3/2016,Indeed,2,56991
