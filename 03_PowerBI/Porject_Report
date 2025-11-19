@@ -1,1 +1,63 @@
+**Project Overview**
 
+This project analyzes the results of a survey shared on LinkedIn targeting professionals working in data-related fields, including Data Scientists, Data Analysts, Data Engineers,  and Data Architects.
+The goal was to collect insights about salaries, job satisfaction, work-life balance, programming languages, and demographic information (location, experience, etc.).
+
+The final output is an interactive Power BI dashboard that visualizes the key findings obtained after data cleaning, wrangling, and exploratory analysis.
+
+**Objectives**
+
+-Understand the profile and work conditions of professionals in the data industry
+
+-Analyze salary distribution across roles, regions, and experience levels
+
+-Explore satisfaction regarding salary and work-life balance
+
+-Identify the most commonly used programming languages
+
+-Build a clean, interactive dashboard for decision-making and insight communication
+
+**Data Cleaning & Preparation**
+-The survey responses required several preprocessing steps:
+
+-Handling missing or inconsistent entries
+
+-Normalizing job titles and standardizing categories
+
+-Cleaning salary values and converting them into a usable format
+
+-Fixing formatting errors (strings, numerical values, categorical fields)
+
+**Dashboard**
+
+-The Power BI report includes:
+
+-Salary overview page
+
+-Job satisfaction & work-life balance page
+
+-Programming languages analysis
+
+The dashboard provides a clear, dynamic view of insights and allows users to explore the data according to their needs.
+
+**Tools & Technologies**
+
+The dataset was fully preprocessed and cleaned before being analyzed and visualized in Power BI.
+
+**Project Files**
+
+/PowerBI
+   |-- Data Professional Survey Breakdown.pbix
+   |-- Project_Report.md
+   |-- /data
+         |-- dataset_clean.csv
+   |-- /reports_images
+         |-- dashboard_preview.png
+
+**Key Outcomes**
+
+-Cleaned and structured survey dataset
+
+-Interactive Power BI dashboard ready for stakeholders
+
+-Valuable insights about salaries, satisfaction, and tools used in the data field
