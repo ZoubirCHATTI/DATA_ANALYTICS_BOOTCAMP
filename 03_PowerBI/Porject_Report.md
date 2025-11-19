@@ -41,3 +41,25 @@ The dataset was fully preprocessed and cleaned before being analyzed and visuali
 ---
 
 ## **Project Files**
+
+/PowerBI_Project
+   |-- Data Professional Survey Breakdown.pbix
+   |-- Project_Report.md
+   |-- /data
+   |     |-- 01_Raw_data
+   |     |-- 02_cleaned_data.csv
+   |-- /reports_images
+         |-- dashboard_preview.png
+
+  
+---
+
+## **Key Outcomes**
+- Cleaned and structured survey dataset  
+- Interactive Power BI dashboard ready for stakeholders  
+- Valuable insights about salaries, satisfaction, and tools used in the data field  
+       
+## **Author
+
+Zoubir CHATTI
+Geophysicist, data analyst and signal processing enginner
