@@ -43,12 +43,19 @@ The dataset was fully preprocessed and cleaned before being analyzed and visuali
 ## **Project Files**
 
 /PowerBI_Project
+
    |-- Data Professional Survey Breakdown.pbix
+   
    |-- Project_Report.md
+   
    |-- /data
+   
    |     |-- 01_Raw_data
+   
    |     |-- 02_cleaned_data.csv
+   
    |-- /reports_images
+   
          |-- dashboard_preview.png
 
   
