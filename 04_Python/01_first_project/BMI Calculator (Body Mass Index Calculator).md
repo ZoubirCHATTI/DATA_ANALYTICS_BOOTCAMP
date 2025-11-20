@@ -53,9 +53,8 @@ The program uses the standard BMI classification for adults:
 
 ## 📝 Author
 
-*   [Your Name/Handle]
-*   [Link to your GitHub or LinkedIn]
+*   [Zoubir CHHATTI/Handle]
 
-## 📄 License
 
-This project is licensed under [MIT/Apache/etc.] - see the `LICENSE.md` file for more details. (To be added if you have a license file)
+
+
